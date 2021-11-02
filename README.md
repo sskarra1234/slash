@@ -69,6 +69,11 @@ Currently the tool supports the following flags and command line arguments. Thes
 | --num     | int  | 3       | Maximum number of products to search                                 |
 | --sort    | str  | re      | Sort results by relevance (re) or by price (pr)                      |
 | --des     | bool | -       | Set boolean flag if results should be sorted in non-increasing order |
+| --csv     | -    | -       | Save results as CSV                                                  |
+| --full    | str  | F       | T for full version of app; F for mini version of app                 |
+| --link    | -    | -       | Show links in the table                                              |
+
+
 
 :card_index_dividers: Some Examples
 ---
